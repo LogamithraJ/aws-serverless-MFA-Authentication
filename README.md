@@ -5,5 +5,4 @@
 
 > [!NOTE]
 > + By using several AWS Services like AWS Lambda, AWS Cognito, AWS DynamoDB, and AWS API Gateway we will be hosting a Static website with some information to display the use case of the webpage.
-> [!NOTE]
 > + Making an MFA Authentication System.
